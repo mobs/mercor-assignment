@@ -1,0 +1,7 @@
+.ql-container{
+    margin-left: auto;
+    margin-top: auto;
+    max-width: calc(100% - 150px);
+    padding-top: 2rem;
+    padding-left: 50px;
+}
